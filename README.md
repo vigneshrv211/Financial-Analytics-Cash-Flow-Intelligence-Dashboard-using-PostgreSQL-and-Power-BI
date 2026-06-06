@@ -4,19 +4,8 @@ An end-to-end analytics project built using **PostgreSQL, Python, and Power BI**
 
 ## Architecture
 
-```text
-Python Data Generation
-          ↓
-      PostgreSQL
-          ↓
-     SQL Analysis
-          ↓
-      SQL Views
-          ↓
-       Power BI
-          ↓
- Interactive Dashboards
-```
+<img width="1536" height="1024" alt="Financial" src="https://github.com/user-attachments/assets/51b8833b-e17e-4cf3-ab19-d52bdb60bfca" />
+
 
 ## Tech Stack
 
